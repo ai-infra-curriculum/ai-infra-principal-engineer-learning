@@ -65,11 +65,11 @@ By completing this curriculum, you will be able to:
 
 | Project | Description | Duration | Scope |
 |---------|-------------|----------|-------|
-| **01** | [Distributed Training Framework](projects/project-01-distributed-training/) | 100 hours | Company-wide |
-| **02** | [Cross-Team Platform Integration](projects/project-02-platform-integration/) | 80 hours | Multi-team |
-| **03** | [Performance Optimization Initiative](projects/project-03-performance-optimization/) | 100 hours | Critical Path |
-| **04** | [Technical Innovation POC](projects/project-04-innovation-poc/) | 80 hours | R&D |
-| **05** | [Technical Leadership Capstone](projects/project-05-technical-leadership/) | 80 hours | Portfolio |
+| **01** | Distributed Training Framework _(planned)_ | 100 hours | Company-wide |
+| **02** | Cross-Team Platform Integration _(planned)_ | 80 hours | Multi-team |
+| **03** | Performance Optimization Initiative _(planned)_ | 100 hours | Critical Path |
+| **04** | Technical Innovation POC _(planned)_ | 80 hours | R&D |
+| **05** | Technical Leadership Capstone _(planned)_ | 80 hours | Portfolio |
 
 ## 🚀 Getting Started
 
@@ -381,7 +381,7 @@ MIT License - See [LICENSE](LICENSE) for details
 ## 🔗 Related Curricula
 
 ### Prerequisites
-- [Staff AI Infrastructure Engineer](https://github.com/ai-infra-curriculum/ai-infra-staff-engineer-learning) (if available)
+- Staff AI Infrastructure Engineer _(planned — repo not yet created)_
 - [Senior AI Infrastructure Engineer](https://github.com/ai-infra-curriculum/ai-infra-senior-engineer-learning)
 
 ### Parallel Tracks
@@ -400,7 +400,7 @@ MIT License - See [LICENSE](LICENSE) for details
 ---
 
 **Ready to reach the pinnacle of IC technical excellence?** 🚀
-Begin with [Module 601: Principal Engineer Mindset](lessons/mod-601-principal-mindset/)
+Begin with the lessons in [lessons/](lessons/) — start with the lowest-numbered mod.
 
 **Questions?** Open an issue or join our principal engineer network!
 
