@@ -6,6 +6,10 @@
 
 Welcome to the **Principal AI Infrastructure Engineer Learning Repository**! This advanced individual contributor (IC) curriculum prepares senior engineers for principal-level technical leadership, cross-team impact, and technical innovation.
 
+## ✨ What's new — 2026-05-27
+
+The `01-overview.md` lecture for every module (`mod-501-technical-strategy` through `mod-505-long-term-technical-bets`) has been expanded from a 5-line stub into a substantive 120-150 line lecture. Each covers the principal-engineer altitude, the shift in output measure, the core skills, common failure modes, and further reading. Audit score: 64.
+
 ## 🎯 Learning Objectives
 
 By completing this curriculum, you will be able to:
