@@ -412,3 +412,9 @@ Begin with the lessons in [lessons/](lessons/) — start with the lowest-numbere
 **Version:** 1.0.0
 **Maintained by:** AI Infrastructure Curriculum Team
 **Contact:** ai-infra-curriculum@joshua-ferguson.com
+
+
+---
+
+<!-- aicg:maintained-by -->
+Maintained by [VeriSwarm.ai](https://veriswarm.ai)
