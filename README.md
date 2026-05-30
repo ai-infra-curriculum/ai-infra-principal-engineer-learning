@@ -410,9 +410,8 @@ Begin with the lessons in [lessons/](lessons/) — start with the lowest-numbere
 
 **Last Updated:** October 2025
 **Version:** 1.0.0
-**Maintained by:** AI Infrastructure Curriculum Team
-**Contact:** ai-infra-curriculum@joshua-ferguson.com
 
+**Contact:** ai-infra-curriculum@joshua-ferguson.com
 
 ---
 
