@@ -2,24 +2,24 @@
 
 AI Infrastructure Curriculum · Level 50 · [learning](https://github.com/ai-infra-curriculum/ai-infra-principal-engineer-learning) · [solutions](https://github.com/ai-infra-curriculum/ai-infra-principal-engineer-solutions)
 
-_Generated 2026-11-03 by `aicg org completeness`._
+_Generated 2026-11-22 by `aicg org completeness`._
 
-**Overall: 50%**
+**Overall: 80%**
 
 | | Progress | Count |
 |---|---|---|
-| Learning | `░░░░░░░░░░` 0% | 0/5 modules complete |
+| Learning | `██████░░░░` 60% | 3/5 modules complete |
 | Solutions | `██████████` 100% | 25/25 exercises solved |
 
 ## Modules
 
 | Module | Status | Words | Chapters | Exercises | Quiz | Solutions |
 |---|---|---|---|---|---|---|
-| `mod-501-technical-strategy` | 🟡 Skeleton | 1,032 | 1 | 5 | ✓ | 5/5 |
-| `mod-502-mentorship-leadership` | 🟡 Skeleton | 1,046 | 1 | 5 | ✓ | 5/5 |
-| `mod-503-cross-org-initiative` | 🟡 Skeleton | 1,139 | 1 | 5 | ✓ | 5/5 |
-| `mod-504-open-source-community` | 🟡 Skeleton | 1,037 | 1 | 5 | ✓ | 5/5 |
-| `mod-505-long-term-technical-bets` | 🟡 Skeleton | 1,125 | 1 | 5 | ✓ | 5/5 |
+| `mod-501-technical-strategy` | 🟡 Skeleton | 2,210 | 1 | 5 | ✓ | 5/5 |
+| `mod-502-mentorship-leadership` | 🟡 Skeleton | 2,587 | 1 | 5 | ✓ | 5/5 |
+| `mod-503-cross-org-initiative` | ✅ Complete | 3,021 | 1 | 5 | ✓ | 5/5 |
+| `mod-504-open-source-community` | ✅ Complete | 3,139 | 1 | 5 | ✓ | 5/5 |
+| `mod-505-long-term-technical-bets` | ✅ Complete | 3,670 | 1 | 5 | ✓ | 5/5 |
 
 ## How this is calculated
 
