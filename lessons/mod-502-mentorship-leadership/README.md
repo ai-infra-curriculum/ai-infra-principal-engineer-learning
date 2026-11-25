@@ -198,11 +198,8 @@ header is a formal gate. The real prerequisites are:
   acquire one.
 
 If none of those are true yet, the material in this module
-will read as abstract. Do a tour in
-`ai-infra-staff-engineer-learning/mod-303-mentorship-growing-engineers`
-first and come back. <!-- needs-research: confirm sibling
-module path for mentorship fundamentals in the staff-engineer
-track -->
+will read as abstract. Spend time on mentorship fundamentals
+in an earlier-career track first and come back.
 
 ## What success looks like
 
