@@ -204,10 +204,8 @@ header is a formal gate. The real prerequisites are:
 
 If none of those are true yet, the material in this module
 will read as abstract. Do a tour in
-`ai-infra-senior-architect-learning/mod-402-executive-leadership`
+`ai-infra-senior-architect-learning/lessons/mod-402-executive-leadership`
 first and come back.
-<!-- needs-research: confirm sibling module path for
-executive-leadership exposure in the senior-architect track -->
 
 ## What success looks like
 
